@@ -1,0 +1,18 @@
+.rightSider {
+  display: flex;
+  color: #00ffff;
+  font-size: 20px;
+  .userWrap {
+    .userList {
+      margin: 10% 0;
+      width: 500px;
+      height: 90%;
+    }
+  }
+  .RightBorder {
+    width: 10px;
+    padding-left: 10%;
+    padding-top: 20px;
+    height: 100%;
+  }
+}

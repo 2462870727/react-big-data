@@ -1,0 +1,14 @@
+.wrap {
+  // height: 100vh;
+  // background-image: url(../assets/img/);
+  // background-color: #061221;
+  background: #0f2027; /* fallback for old browsers */
+  background-image: url(https://other-jk-project.oss-cn-beijing.aliyuncs.com/%E8%83%8C%E6%99%AF.jpg);
+  background-size: 100% 100%;
+  .contentWrap {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 3%;
+    justify-content: space-between;
+  }
+}

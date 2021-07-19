@@ -1,0 +1,97 @@
+.headerWrap {
+  .titleDec {
+    width: 200px;
+    height: 20px;
+    margin-bottom: 20px;
+  }
+  .title {
+    margin: 20px 10px;
+    font-size: 18px;
+    color: #00ffff;
+  }
+}
+.serviceWrap {
+  // height: 140px;
+  text-align: center;
+  color: #fff;
+  font-size: 15px;
+  .contentBorder {
+    width: 100%;
+    height: 1px;
+  }
+  .firstFloor {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px 0;
+    .item {
+      width: 120px;
+      padding: 10px 15px;
+    }
+    .itemBorder {
+      width: 2px;
+      height: 50px;
+    }
+    .center {
+      margin: 20px 0;
+      padding: 5px 20px;
+      // border-left: 1px solid #666;
+      // border-right: 1px solid #666;
+    }
+  }
+}
+.hardwareWrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 18px;
+  color: #00ffff;
+  .titleDec {
+    width: 70%;
+    height: 50px;
+    margin: 20px 0;
+  }
+}
+.hardwareTable {
+  width: 100%;
+  height: 220px;
+}
+.loadWrap {
+  margin-top: 20px;
+  color: #fff;
+  .loadContent {
+    // width: 100%;
+    display: flex;
+    align-items: center;
+    // height: 200px;
+    .item{
+      display: flex;
+      align-items: center;
+    }
+    .loadInfo {
+      display: inline-block;
+      width: 30%;
+      height: 200px;
+      padding: 0 10px;
+    }
+    .saveInfo {
+      display: inline-block;
+      width: 30%;
+      height: 100%;
+      // padding: 10px 10px 0;
+      // padding: 0 10px;
+    }
+  }
+  .loadHeader {
+    width: 100%;
+    height: 20px;
+    margin-bottom: 20px;
+    color: #00ffff;
+    .loadTitle {
+      margin-left: 20px;
+      margin-right: 60px;
+      font-size: 18px;
+      letter-spacing: 2px;
+    }
+  }
+}
