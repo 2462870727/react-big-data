@@ -4,9 +4,7 @@
 
 # 项目预览
 
-[预览地址](https://2462870727.github.io/react-big-data/)
-
-[预览地址](https://stackblitz.com/edit/react-s82nhf)
+[预览地址](https://screen.happynewball.com/)
 
 # 运行项目
 
