@@ -6,6 +6,8 @@
 
 [预览地址](https://screen.happynewball.com/)
 
+请在 `F11`全屏状态下进行查看 效果更佳。
+
 # 运行项目
 
 1. `yarn or npm install`
